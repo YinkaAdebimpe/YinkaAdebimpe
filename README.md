@@ -4,7 +4,7 @@
 
 I turn messy customer data into business decisions — churn models, lifetime value forecasts, and claims severity predictions. I care as much about **why a model works** as whether it does.
 
-📍 United Kingdom · 📧 adebimpey@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/yinka-adebimpe/)
+📍 United Kingdom · 📧 adebimpey@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/yinka-adebimpe/) 📄 [Download my CV](https://github.com/YinkaAdebimpe/YinkaAdebimpe/raw/main/Yinka_Adebimpe_CV.pdf)
 
 ---
 
