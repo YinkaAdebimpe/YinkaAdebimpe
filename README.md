@@ -2,52 +2,52 @@
 
 **Data Scientist | Customer Analytics & Predictive Modelling**
 
-I turn messy customer data into business decisions — churn models, lifetime value forecasts, and claims severity predictions. I care as much about **why a model works** as whether it does.
+I build end-to-end machine learning pipelines that translate complex data into measurable financial outcomes. My work spans predictive modelling, survival analysis, statistical experimentation (A/B testing), and time-series forecasting — always engineered for production and documented so stakeholders can act on it.
 
 📍 United Kingdom · 📧 adebimpey@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/yinka-adebimpe/) 📄 [Download my CV](https://github.com/YinkaAdebimpe/YinkaAdebimpe/raw/main/Yinka_Adebimpe_CV.pdf)
 
 ---
 
-## Portfolio — GuardianShield Insurance
+## 🚀 Featured Projects
 
-A three-engagement consulting series for a fictional UK insurer. Each engagement is a complete deliverable: reproducible data pipeline, PostgreSQL backend, notebooks, trained models, and business-facing reports.
-
-| # | Engagement | Question answered | Result |
-|---|-----------|-------------------|--------|
-| 1 | **[Customer Renewal Prediction](https://github.com/YinkaAdebimpe/guardianshield-renewal)** | Which customers will lapse at their next renewal? | ROC-AUC **0.81** |
-| 2 | **[Customer Lifetime Value](https://github.com/YinkaAdebimpe/guardianshield-clv)** | What is each customer worth over the next 12 months? | Portfolio CLV **£3.33M** |
-| 3 | **[Claims Severity Prediction](https://github.com/YinkaAdebimpe/guardianshield-claims)** | How much will each claim cost? | MAE **£1,937** |
-
-### 🔍 What makes these projects different
-
-**1. Honest modelling decisions.** In Engagement 2, I evaluated BG/NBD — the industry-standard CLV model — and **rejected it**. Insurance renewals are contractual, not continuous-time purchases, so the model collapsed to degenerate parameters. I documented the negative result and switched to survival analysis. The rejected-model notebook is retained in the repository.
-
-**2. Iteration over polish.** Engagement 1's first model scored ROC-AUC 0.70 — barely above random. Rather than accept it, I diagnosed the problem (missing behavioural features), added four new signals (`missed_payments`, `payment_method_change`, `days_since_last_contact`, `previous_renewals_count`), and lifted ROC-AUC to **0.81**.
-
-**3. Business framing throughout.** Every engagement ships with an Executive Summary written for a non-technical audience, plus a Technical Report for reviewers who want the details.
+| Project | Domain | Business Impact |
+|---------|--------|-----------------|
+| **[Customer Growth & Churn Engine](https://github.com/YinkaAdebimpe/Lifecycle-Growth-Engine)** | E-commerce | **£68K net profit** (15x ROI) from churn prediction & forecasting. |
+| **[Customer Renewal Classifier](https://github.com/YinkaAdebimpe/guardianshield-renewal)** | Insurance | Protects **~£166K** in annual revenue (ROC-AUC 0.81). |
+| **[Customer Lifetime Value Model](https://github.com/YinkaAdebimpe/guardianshield-clv)** | Insurance | Projects **£3.33M** portfolio value using survival analysis. |
+| **[Claims Severity Predictor](https://github.com/YinkaAdebimpe/guardianshield-claims)** | Insurance | **£1,937 MAE** in claim cost regression, improving reserving. |
 
 ---
 
-## Technical Skills
+### 🔍 What makes these projects different
+
+1. **Honest modelling decisions:** In the CLV project, I evaluated the industry-standard BG/NBD model, found it was fundamentally flawed for contractual insurance data, documented the negative result, and successfully switched to Survival Analysis.
+2. **Iteration over polish:** In the Renewal project, my first model scored ROC-AUC 0.70. I diagnosed the missing behavioural features, engineered four new signals, and lifted the score to 0.81.
+3. **Business framing throughout:** Every project includes an Executive Summary for non-technical stakeholders and a Technical Report for engineering reviewers.
+
+---
+
+## 🛠️ Technical Skills
 
 | Area | Tools |
 |------|-------|
 | **Languages** | Python, SQL, R |
-| **Data** | pandas, numpy, PostgreSQL, SQLAlchemy |
-| **Machine Learning** | scikit-learn, XGBoost, `lifelines` (survival analysis), `lifetimes` (BG/NBD) |
+| **Data Engineering** | pandas, numpy, PostgreSQL, SQLAlchemy |
+| **Machine Learning** | scikit-learn, XGBoost, `lifelines` (Survival Analysis) |
+| **Experimentation** | A/B Testing (`scipy`), Time-Series Forecasting (`statsmodels`) |
 | **Visualisation** | matplotlib, seaborn, Power BI, Tableau |
 | **Tools** | Git, GitHub, JupyterLab, VS Code |
 
 ---
 
-## Background
+## 👤 Background
 
 - **Diploma in Data Analytics** — Pitman Training (SQL, Tableau, Python, R, statistics)
 - **Expert Data Scientist Course** — Stackwissr London (Power BI, SQL, ML, Deep Learning, NLP, Feature Engineering)
 - **Professional experience** — Amazon and Concentrix UK, in customer-facing roles. This is where I learned that the hardest part of analytics isn't the model — it's understanding what question the business actually needs answered.
 
-I'm looking for a **data scientist or analyst role** where I can keep building models that solve real problems, and keep documenting why each one works.
+I build models that solve real business problems, and I document the "why" so teams can actually use them.
 
 ---
 
-*If you'd like to discuss any of the engagements — the modelling choices, the limitations, the iterations — [reach out on LinkedIn](https://www.linkedin.com/in/yinka-adebimpe/) or email me at adebimpey@gmail.com. I enjoy talking through the "why".*
+*If you'd like to discuss any of the projects — the modelling choices, the limitations, the iterations — [reach out on LinkedIn](https://www.linkedin.com/in/yinka-adebimpe/) or email me at adebimpey@gmail.com.*
