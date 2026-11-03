@@ -42,9 +42,9 @@ I build end-to-end machine learning pipelines that translate complex data into m
 
 ## 👤 Background
 
-- **Diploma in Data Analytics** — Pitman Training (SQL, Tableau, Python, R, statistics)
-- **Expert Data Scientist Course** — Stackwissr London (Power BI, SQL, ML, Deep Learning, NLP, Feature Engineering)
-- **Professional experience** — Amazon and Concentrix UK, in customer-facing roles. This is where I learned that the hardest part of analytics isn't the model — it's understanding what question the business actually needs answered.
+- **Diploma in Data Analytics** - Pitman Training (SQL, Tableau, Python, R, statistics)
+- **Expert Data Scientist Course** - Stackwissr London (Power BI, SQL, ML, Deep Learning, NLP, Feature Engineering)
+- **Professional experience** - Amazon and Concentrix UK, in customer-facing roles. This is where I learned that the hardest part of analytics isn't the model - it's understanding what question the business actually needs answered.
 
 I build models that solve real business problems, and I document the "why" so teams can actually use them.
 
