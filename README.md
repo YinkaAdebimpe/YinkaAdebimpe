@@ -1,4 +1,4 @@
-# Hi, I'm Yinka 👋
+# Hi, I'm Yinka
 
 **Data Scientist | Customer Analytics & Predictive Modelling**
 
