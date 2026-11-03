@@ -2,7 +2,7 @@
 
 **Data Scientist | Customer Analytics & Predictive Modelling**
 
-I build end-to-end machine learning pipelines that translate complex data into measurable financial outcomes. My work spans predictive modelling, survival analysis, statistical experimentation (A/B testing), and time-series forecasting — always engineered for production and documented so stakeholders can act on it.
+I build end-to-end machine learning pipelines that translate complex data into measurable financial outcomes. My work spans predictive modelling, survival analysis, statistical experimentation (A/B testing), and time-series forecasting - always engineered for production and documented so stakeholders can act on it.
 
 📍 United Kingdom · 📧 adebimpey@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/yinka-adebimpe/) 📄 [Download my CV](https://github.com/YinkaAdebimpe/YinkaAdebimpe/raw/main/Yinka_Adebimpe_CV.pdf)
 
